@@ -1,0 +1,1 @@
+hola:hello,rojo:red,huevos:eggs,azul:blue,leer:read,comer:eat,comer:eat,pelota:ball,prueba:test,pelo:hair
